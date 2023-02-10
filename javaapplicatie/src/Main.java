@@ -22,6 +22,8 @@ public class Main {
 
         // Use the method mul
         System.out.println(a + " * " + b + " = " + mul(a, b));
+
+        System.out.println("Test for pushing");
     }
 
     // Method returns the interger sum of two integers.
